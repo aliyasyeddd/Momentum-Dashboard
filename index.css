@@ -38,6 +38,11 @@ div#crypto {
 div#crypto-top {
     display: flex;
     align-items: center;
+    margin-bottom: 5px;
+}
+
+div#crypto > p {
+    margin: 0;
 }
 
 div#crypto-top > span {
