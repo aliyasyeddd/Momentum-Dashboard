@@ -10,3 +10,12 @@ fetch("https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&que
 )`
         document.getElementById("author").textContent = `By: Dodi Achmad`
     })
+
+
+//get Dogecoin data
+fetch('https://api.coingecko.com/api/v3/coins/dogecoin')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(err => {
+        console.log(err)
+    })
