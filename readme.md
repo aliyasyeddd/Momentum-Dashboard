@@ -50,8 +50,6 @@ This project is perfect for anyone exploring JavaScript, APIs, and clean UI desi
 
 Here are the key JavaScript concepts practiced while building this project 🧩  
 
-![What we have studied](/mnt/data/f2626e62-4f70-4d24-a66c-1b8a5bdec853.png)
-
 > Concepts practiced include:  
 > - Clients/Servers  
 > - Request/Response  
@@ -76,7 +74,7 @@ Here are the key JavaScript concepts practiced while building this project 🧩
 
 ## 🖼️ Screenshots / Demo  
 
-_Add your screenshots here (example paths):_
+
 
 ![App Screenshot](./img/demo.png)
 
