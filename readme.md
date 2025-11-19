@@ -78,16 +78,16 @@ Here are the key JavaScript concepts practiced while building this project 🧩
 
 _Add your screenshots here (example paths):_
 
-![App Screenshot](./images/demo.png)
+![App Screenshot](./img/demo.png)
 
-🔗 **Live Demo:** https://your-live-link.vercel.app  
+🔗 **Live Demo:** 
 
 ---
 
 ## 💫 Author  
 
 👩‍💻 **Created by Your Name**  
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/aliyasyeddd  
 
 > _“Build. Break. Learn. Repeat.”_ 🌸  
 
